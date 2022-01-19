@@ -15,6 +15,8 @@ This is a simple web project
 
 ## How to contribute
 
+Please fork this repository and then issue Pull requests for review
+
 ## COpyright
 
 2022 me
