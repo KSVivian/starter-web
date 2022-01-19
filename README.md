@@ -14,3 +14,7 @@ As stated above, the main purpose is to provide simple examples for Git,
 This is a simple web project
 
 ## How to contribute
+
+## COpyright
+
+2022 me
