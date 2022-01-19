@@ -19,4 +19,4 @@ Please fork this repository and then issue Pull requests for review
 
 ## Copyright
 
-2022 me @ me
+2022 me @ me. All rights reserved.
